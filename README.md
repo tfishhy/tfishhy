@@ -54,9 +54,9 @@ i love building stuff & music! :D
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logo=codeium&logoColor=white)
 
-
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfishhy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tfishhy&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tfishhy&theme=tokyonight)
+## Currently Learning
+- Network security & penetration testing
+- Cloud (AWS/Azure)
+- CTF challenges
+- Full-stack development (React + Node.js)
+- Cloud fundamentals (AWS)
