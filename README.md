@@ -3,12 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lucasbigas4/)
 [![GitHub](https://img.shields.io/badge/@yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tfishhy)
 
-Based in **Toroto**, I am a **Computer Security student at York University** with experience in systems programming, databases, and full-stack development.
+Based in **Toroto**, I am a **Cybersecurity student at York University** with experience in systems programming, databases, and full-stack development. Focusing in Cybersecurity elements throughout coursework and at home reasearch. Currently building fun projects to acquire skills in my internship hunt!
 
 i love building stuff & music! :D
 
-> something witty here
-catch me on my shrimp breeding grind
+> catch me on my shrimp breeding grind
 ---
 
 ## Current Tech Stack
