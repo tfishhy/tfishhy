@@ -1,9 +1,9 @@
 # HELLO! i'm lucas (｡◕‿‿◕｡)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lucasbigas4/)
-[![GitHub](https://img.shields.io/badge/@yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tfishhy)
+[![GitHub](https://img.shields.io/badge/@tfishhy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tfishhy)
 
-Based in **Toroto**, I am a **Cybersecurity student at York University** with experience in systems programming, databases, and full-stack development. Focusing in Cybersecurity elements throughout coursework and at home reasearch. Currently building fun projects to acquire skills in my internship hunt!
+Based in **Toronto**, I am a **Cybersecurity student at York University** with experience in systems programming, databases, and full-stack development. Focusing in Cybersecurity elements throughout coursework and at home reasearch. Currently building fun projects to acquire skills in my internship hunt!
 
 i love building stuff & music! :D
 
@@ -13,7 +13,6 @@ i love building stuff & music! :D
 ## Current Tech Stack
 
 ### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
