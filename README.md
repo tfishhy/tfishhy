@@ -64,9 +64,3 @@ i love building stuff & music! :D
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logo=codeium&logoColor=white)
-
-## Currently Learning
-- Network security & penetration testing
-- Full-stack development (React + Node.js)
-- Cloud fundamentals (AWS)
-- Data Structures & Algorithms
