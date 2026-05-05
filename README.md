@@ -53,3 +53,10 @@ i love building stuff & music! :D
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logo=codeium&logoColor=white)
+
+
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfishhy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tfishhy&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tfishhy&theme=tokyonight)
