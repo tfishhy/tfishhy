@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasbigas4/)
 [![GitHub](https://img.shields.io/badge/@tfishhy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tfishhy)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/226857432305893386)
-[![guns.lol](https://img.shields.io/badge/guns.lol-000000?style=for-the-badge)](https://guns.lol/tfishy)
+[![guns.lol](https://img.shields.io/badge/guns.lol-000000?style=for-the-badge)](https://guns.lol/tfish)
+
 Based in **Toronto**, I am a **Cybersecurity student at York University** with experience in systems programming, databases, and full-stack development. Focusing in Cybersecurity elements throughout coursework and at home reasearch. Currently building fun projects to acquire skills in my internship hunt!
 
 i love building stuff & music! :D
