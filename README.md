@@ -54,7 +54,7 @@ i love building stuff & music! :D
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logo=codeium&logoColor=white)
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tfishhy&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Currently Learning
 - Network security & penetration testing
