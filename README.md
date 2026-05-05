@@ -1,6 +1,6 @@
 # HELLO! i'm lucas (｡◕‿‿◕｡)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lucasbigas4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasbigas4/)
 [![GitHub](https://img.shields.io/badge/@tfishhy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tfishhy)
 
 Based in **Toronto**, I am a **Cybersecurity student at York University** with experience in systems programming, databases, and full-stack development. Focusing in Cybersecurity elements throughout coursework and at home reasearch. Currently building fun projects to acquire skills in my internship hunt!
@@ -31,7 +31,7 @@ i love building stuff & music! :D
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databses
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -56,7 +56,6 @@ i love building stuff & music! :D
 
 ## Currently Learning
 - Network security & penetration testing
-- Cloud (AWS/Azure)
-- CTF challenges
 - Full-stack development (React + Node.js)
 - Cloud fundamentals (AWS)
+- Data Structures & Algorithms
