@@ -54,6 +54,8 @@ i love building stuff & music! :D
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge&logo=codeium&logoColor=white)
 
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tfishhy&show_icons=true&theme=tokyonight)
+
 ## Currently Learning
 - Network security & penetration testing
 - Full-stack development (React + Node.js)
