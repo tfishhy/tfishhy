@@ -27,6 +27,7 @@ i love building stuff & music! :D
 ![POWERSHELL](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
 ![SHELL SCRIPT](https://img.shields.io/badge/SHELL-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
 ### Libraries & Frameworks
